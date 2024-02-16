@@ -1,0 +1,40 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Flutter",
+      "enunciado": "¿Quién es el desarrollador principal de Flutter?",
+      "respuestas": [
+        {"opcion": "A", "texto": "Google"},
+        {"opcion": "B", "texto": "Facebook"},
+        {"opcion": "C", "texto": "Amazon"},
+        {"opcion": "D", "texto": "Microsoft"}
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 2,
+      "tema": "Kotlin",
+      "enunciado": "¿Cuál es el propósito principal de Kotlin?",
+      "respuestas": [
+        {"opcion": "A", "texto": "Desarrollo web"},
+        {"opcion": "B", "texto": "Desarrollo móvil"},
+        {"opcion": "C", "texto": "Desarrollo de juegos"},
+        {"opcion": "D", "texto": "Desarrollo de inteligencia artificial"}
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 3,
+      "tema": "Hilos",
+      "enunciado": "¿Qué es un hilo en programación?",
+      "respuestas": [
+        {"opcion": "A", "texto": "Una estructura de datos"},
+        {"opcion": "B", "texto": "Un tipo de variable"},
+        {"opcion": "C", "texto": "Un proceso ligero que puede ejecutarse en paralelo"},
+        {"opcion": "D", "texto": "Un tipo de condición"}
+      ],
+      "respuesta_correcta": "C"
+    }
+  ]
+}
